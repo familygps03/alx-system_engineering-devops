@@ -1,0 +1,2 @@
+#!/bish/bash
+chmod u+x hello
