@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display lines containing the word 'bash'.
+# Disable shellcheck for the command substitution.
+
+ps aux | grep bash
