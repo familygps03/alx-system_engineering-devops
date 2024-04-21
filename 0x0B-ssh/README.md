@@ -1,1 +1,8 @@
-This is a readme for the SSH project 
+#ssh
+^C
+
+
+
+:wq
+exit
+
